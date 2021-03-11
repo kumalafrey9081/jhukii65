@@ -1,0 +1,4 @@
+baseURL = "https://espnfootball-vee.vercel.app"
+languageCode = "en-us"
+title = "ESPN Fantasy Football"
+theme = "hugo-theme-minos"
